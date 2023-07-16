@@ -11,11 +11,11 @@ copies of this license document.
 
 1. Do whatever you want with the original repositories, just don't be a jerk.
   Being a jerk includes:
-a. Outright plagiarism - don't just copy the work verbatim and change the name. It's not like we're not going to notice. Seriously, don't do this, you're lucky I'm not a large company,
+  1. Outright plagiarism - don't just copy the work verbatim and change the name. It's not like we're not going to notice. Seriously, don't do this, you're lucky I'm not a large company,
   which has the power to sue anybody they wish.
-b. Selling the unmodified original for commercial purposes - that's REALLY being a jerk. All derived works must be non-commercial. Or if you do want to make it commercial,
+  2. Selling the unmodified original for commercial purposes - that's REALLY being a jerk. All derived works must be non-commercial. Or if you do want to make it commercial,
   then at least modify the code heavily.
-c. Modifying the original work to contain malicious code and potentially ruin my career - that would make you a PROPER jerk, because you're risking ruining my career.
+  3. Modifying the original work to contain malicious code and potentially ruin my career - that would make you a PROPER jerk, because you're risking ruining my career.
   Don't even try this, unless you want me to report your repository to GitHub and potentially make your GitHub cease to exist overnight. Like, actually don't do this, you're lucky, that
   in case of this happening, you're at most only going to have your GitHub deleted, because I could go further, and have you eventually end up behind bars.
 
